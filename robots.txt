@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shehan-fdo.github.io/CompTIA-A-220-1201-Notes/sitemap.xml
